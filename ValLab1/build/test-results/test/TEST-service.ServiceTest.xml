@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-03-24T15:31:15" hostname="denis-K501LX" time="0.137">
+  <properties/>
+  <testcase name="testSaveExistingCorrectStudent()" classname="service.ServiceTest" time="0.021"/>
+  <testcase name="testDeleteExistingStudent()" classname="service.ServiceTest" time="0.006"/>
+  <testcase name="testSaveHomeworkWithInvertedDeadlineStartLine()" classname="service.ServiceTest" time="0.009"/>
+  <testcase name="testSaveGradeForNonExistingStudent()" classname="service.ServiceTest" time="0.001"/>
+  <testcase name="[1] -1" classname="service.ServiceTest" time="0.035"/>
+  <testcase name="[2] 0" classname="service.ServiceTest" time="0.003"/>
+  <testcase name="[3] 15" classname="service.ServiceTest" time="0.003"/>
+  <system-out><![CDATA[Entity is not valid! 
+
+Entity is not valid! 
+
+Entity is not valid! 
+
+Entity is not valid! 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

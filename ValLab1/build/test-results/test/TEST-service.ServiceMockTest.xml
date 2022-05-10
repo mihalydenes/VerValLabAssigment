@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ServiceMockTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-24T15:31:16" hostname="denis-K501LX" time="0.052">
+  <properties/>
+  <testcase name="testSaveExistingCorrectStudent()" classname="service.ServiceMockTest" time="0.041"/>
+  <testcase name="testDeleteExistingStudent()" classname="service.ServiceMockTest" time="0.004"/>
+  <testcase name="testSaveGradeForNonExistingStudent()" classname="service.ServiceMockTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
